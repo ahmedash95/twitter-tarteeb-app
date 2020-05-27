@@ -1,0 +1,7 @@
+{
+    "require": {
+        "spatie/twitter-streaming-api": "^1.4",
+        "dg/twitter-php": "^4.1",
+        "symfony/var-dumper": "^5.0"
+    }
+}
