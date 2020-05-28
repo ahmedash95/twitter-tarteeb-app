@@ -14,9 +14,9 @@ All you need to have is [Composer](https://getcomposer.org/)
 
 ### Installing
 
-This will take you to use Tarteeb bot 
+This installation will take you to use Tarteeb bot 
 
-First clone the project using :
+First clone the project:
 
 ```
 git clone https://github.com/ahmedash95/twitter-tarteeb-app
@@ -28,7 +28,7 @@ then change directory to `twitter-tarteeb-app` and do
 composer install
 ```
 
-update `config.php` file with your credentials , then start your server and hit the index.php file
+update `config.php` file with your credentials , then start your server and hit the `index.php` file
 
 
 
