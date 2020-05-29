@@ -28,7 +28,11 @@ then change directory to `twitter-tarteeb-app` and do
 composer install
 ```
 
-update `config.php` file with your credentials , then start your server and hit the `index.php` file
+update `config.php` file with your twitter  credentials , then start  server:
+
+```
+php -S localhost:8888 index.php
+```
 
 
 
